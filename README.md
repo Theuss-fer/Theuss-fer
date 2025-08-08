@@ -1,7 +1,7 @@
 <h1 align="left">👋 Hello! I'm Matheus Barros Ferreira.</h1>
 
 🎓 Student of Systems Analysis and Development at Impacta Technology College  
-<br>💻 Passionate about Full Stack development, creative solutions, and Data Analysis
+💻 Passionate about Full Stack development, creative solutions, and Data Analysis
 <br>🚀 Looking for opportunities to grow as a developer and contribute to innovative projects
 
 ---

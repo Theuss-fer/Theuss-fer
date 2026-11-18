@@ -1,54 +1,67 @@
-<h1 align="left">👋 Hello, I'm Matheus Barros Ferreira</h1>
+<h1 align="left">👋 Fala, eu sou o Matheus Barros Ferreira</h1>
 
-🎓 Systems Analysis and Development student at Impacta Technology College  
-💻 Full Stack Developer in progress, focused on building real-world applications  
-📊 Interested in Software Development, Automation and Data Analysis  
-🚀 Currently seeking internships and opportunities to grow as a developer
+💻 Desenvolvedor Full Stack Júnior na IB Software, trabalhando com sistemas de logística
+🎓 Formado em Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia Impacta
+☕ No dia a dia: Java, JavaScript e XHTML. Nos projetos próprios: React, React Native e Node.js
+🚀 Quero crescer como full stack, com foco em Java e Spring Boot
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologias
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" alt="Spring Boot" title="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React / React Native" title="React / React Native"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" alt="Kotlin" title="Kotlin"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" alt="SQL Server" title="SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" alt="IntelliJ IDEA" title="IntelliJ IDEA"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" title="VS Code"/>
 </p>
 
 ---
 
-## 📚 Currently Learning
+## 📁 Projetos em destaque
 
-- Full Stack development (frontend + backend integration)
-- Software architecture and best practices (clean code, SOLID principles)
-- API development and system integration
-- UX fundamentals and user-centered design
-
----
-
-## 💡 About Me
-
-I am a curious and proactive developer who enjoys solving problems and building efficient solutions with code.  
-I believe technology has the power to transform lives, and I am focused on growing professionally through real projects, internships, and continuous learning.
+- **[Alento](LINK_DO_REPOSITORIO)** — App mobile cristão, em desenvolvimento: leitura da Bíblia com escolha de tradição e versão, feito em JavaScript.
+- **[Clone do Spotify](LINK_DO_REPOSITORIO)** — Interface do Spotify recriada com React, construída passo a passo.
+- **[Extração de dados / RPA em Python](LINK_DO_REPOSITORIO)** — Web scraping e automação de processos com Python.
 
 ---
 
-## 📫 Contact
+## 📚 Estudando agora
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/matheus-ferreira-273a42224)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:matheusbferreira31@gmail.com)
+- Back-end com Java e Spring Boot
+- Arquitetura de software e boas práticas (clean code, SOLID)
+- Desenvolvimento de APIs e integração de sistemas
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my projects and connect.
+## 🎮 Fora do código
+
+- 🥋 Judoca, de volta aos campeonatos
+- 🎧 Rap geek e música no fone o dia todo
+- 🎸 Aprendendo violão
+- 🕹️ Gamer de fim de semana (Valorant, CS, Fortnite e Minecraft)
+
+---
+
+## 💡 Sobre mim
+
+Gosto de resolver problemas com código e de aprender construindo. Trabalho com sistemas reais de logística e, fora do expediente, crio projetos próprios para praticar e evoluir.
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-ferreira-273a42224)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusbferreira31@gmail.com)
